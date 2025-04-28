@@ -20,3 +20,4 @@ A web app to capture emotional memories through text, voice, and face detection.
 - Pandas
 
 🚀 Created by Shyam - Passionate about AI, Robotics, and Emotional Technology.
+Demo Video: https://youtu.be/FZRqhRgmisA
